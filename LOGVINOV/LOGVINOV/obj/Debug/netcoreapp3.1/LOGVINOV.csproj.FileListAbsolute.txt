@@ -1,0 +1,13 @@
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\obj\Debug\netcoreapp3.1\LOGVINOV.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\obj\Debug\netcoreapp3.1\LOGVINOV.AssemblyInfoInputs.cache
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\obj\Debug\netcoreapp3.1\LOGVINOV.AssemblyInfo.cs
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\obj\Debug\netcoreapp3.1\LOGVINOV.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\bin\Debug\netcoreapp3.1\LOGVINOV.exe
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\bin\Debug\netcoreapp3.1\LOGVINOV.deps.json
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\bin\Debug\netcoreapp3.1\LOGVINOV.runtimeconfig.json
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\bin\Debug\netcoreapp3.1\LOGVINOV.runtimeconfig.dev.json
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\bin\Debug\netcoreapp3.1\LOGVINOV.dll
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\bin\Debug\netcoreapp3.1\LOGVINOV.pdb
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\obj\Debug\netcoreapp3.1\LOGVINOV.dll
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\obj\Debug\netcoreapp3.1\LOGVINOV.pdb
+C:\Users\пользователь\source\repos\LOGVINOV\LOGVINOV\obj\Debug\netcoreapp3.1\LOGVINOV.genruntimeconfig.cache
