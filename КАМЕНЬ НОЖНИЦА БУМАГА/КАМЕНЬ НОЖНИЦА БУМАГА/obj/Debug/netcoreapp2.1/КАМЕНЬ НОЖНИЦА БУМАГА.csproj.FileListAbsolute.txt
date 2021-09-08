@@ -1,0 +1,12 @@
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\obj\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\obj\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.AssemblyInfoInputs.cache
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\obj\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.AssemblyInfo.cs
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\obj\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\bin\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.deps.json
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\bin\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.runtimeconfig.json
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\bin\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.runtimeconfig.dev.json
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\bin\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.dll
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\bin\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.pdb
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\obj\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.dll
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\obj\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.pdb
+C:\Users\пользователь\source\repos\КАМЕНЬ НОЖНИЦА БУМАГА\КАМЕНЬ НОЖНИЦА БУМАГА\obj\Debug\netcoreapp2.1\КАМЕНЬ НОЖНИЦА БУМАГА.genruntimeconfig.cache
